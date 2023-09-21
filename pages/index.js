@@ -148,7 +148,7 @@ export default function Home() {
             </form>
           </div>
           <div className={styles.footer}>
-            <p> Built for Educational Purposes By Abil Shrestha with Help of <span>Zahid Khawaja</span></p>
+            <p> Built for Educational Purposes By Abil Shrestha</span></p>
           </div>
         </div>
       </main>
